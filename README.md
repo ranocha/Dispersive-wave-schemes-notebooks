@@ -35,6 +35,8 @@ use the implementations provided here, please cite this repository as
 }
 ```
 
+The numerical experiments were carried out on a workstation running Kubuntu 20.04. The MATLAB scripts were executed using MATLAB R2018a. The Jupyter notebooks running Julia kernels used Julia v1.4.2.
+
 
 ## Disclaimer
 
