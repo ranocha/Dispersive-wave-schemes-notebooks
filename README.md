@@ -1,7 +1,7 @@
 # A Broad Class of Conservative Numerical Methods for Dispersive Wave Equations
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-success.svg)](https://opensource.org/licenses/MIT)
-[![DOI](https://zenodo.org/badge/DOI/XXXXX.svg)](https://doi.org/XXXXX)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3908803.svg)](https://doi.org/10.5281/zenodo.3908803)
 
 This repository contains some code used in the article
 ```
@@ -31,7 +31,7 @@ use the implementations provided here, please cite this repository as
   year={2020},
   month={06},
   howpublished={\url{https://github.com/ranocha/Dispersive-wave-schemes-notebooks}},
-  doi={XXXXX}
+  doi={10.5281/zenodo.3908803}
 }
 ```
 
