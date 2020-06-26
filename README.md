@@ -17,7 +17,7 @@ This repository contains some code used in the article
 }
 ```
 
-> We further develop general tools to construct discretely conservative numerical methods and apply them to several dispersive wave equations: Benjamin-Bona-Mahony (BBM), Fornberg-Whitham, Camassa-Holm, Degasperis-Procesi, Holm-Hone, and the BBM-BBM system. These full discretizations conserve all linear invariants and one nonlinear invariant for each system. The spatial semidiscretizations are built using the unifying framework of summation by parts operators and include finite difference, spectral collocation, and both discontinuous and continuous finite element methods. Classical time integration schemes such as Runge-Kutta methods and linear multistep methods are applied and the recent relaxation technique is used to enforce temporal conservation.
+> We develop general tools to construct fully-discrete, conservative numerical methods and apply them to several nonlinear dispersive wave equations: Benjamin-Bona-Mahony (BBM), Fornberg-Whitham, Camassa-Holm, Degasperis-Procesi, Holm-Hone, and the BBM-BBM system. These full discretizations conserve all linear invariants and one nonlinear invariant for each system. The spatial semidiscretizations are built using the unifying framework of summation by parts operators and include finite difference, spectral collocation, and both discontinuous and continuous finite element methods. Classical time integration schemes such as Runge-Kutta methods and linear multistep methods are applied and the recent relaxation technique is used to enforce temporal conservation.
 
 
 If you find these results useful, please cite the article mentioned above. If you
