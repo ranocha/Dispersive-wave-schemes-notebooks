@@ -1,0 +1,26 @@
+{
+    "description": "A Broad Class of Conservative Numerical Methods for Dispersive Wave Equations",
+    "license": "mit-license",
+    "title": "ranocha/Dispersive-wave-schemes-notebooks",
+    "version": "v1.0.0",
+    "upload_type": "software",
+    "publication_date": "2020-06-26",
+    "creators": [
+        {
+            "affiliation": "King Abdullah University of Science and Technology",
+            "name": "Hendrik Ranocha",
+            "orcid": "0000-0002-3456-2277"
+        },
+        {
+            "affiliation": "Victoria University of Wellington",
+            "name": "Dimitrios Mitsotakis",
+            "orcid": "0000-0003-2700-6093"
+        },
+        {
+	    "affiliation": "King Abdullah University of Science and Technology",
+            "name": "David I. Ketcheson",
+            "orcid": "0000-0002-1212-126X"
+        }
+    ],
+    "access_right": "open"
+}
