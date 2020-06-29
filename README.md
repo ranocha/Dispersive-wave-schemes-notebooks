@@ -11,7 +11,7 @@ This repository contains some code used in the article
   author={Ranocha, Hendrik and Mitsotakis, Dimitrios and Ketcheson, David I},
   year={2020},
   month={06},
-  eprint={2006.XXXXX},
+  eprint={2006.14802},
   eprinttype={arxiv},
   eprintclass={math.NA}
 }
